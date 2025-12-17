@@ -1,5 +1,5 @@
 # Mikrotik Address List by Country
-Mikroitk Address list by country
+Mikroitk Address list by country code
 
 set your own country code (ccode) on the script
 
