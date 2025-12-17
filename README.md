@@ -1,7 +1,7 @@
 # Mikrotik Address List by Country
 Mikroitk Address list by country
 
-set your own country code (ccode) on script
+set your own country code (ccode) on the script
 
 ```ROS
 :local ccode "IR"
