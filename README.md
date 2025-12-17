@@ -1,6 +1,8 @@
 # Mikrotik Address List by Country
 Mikroitk Address list by country
 
+set your own country code (ccode) on script
+
 ```ROS
 :local ccode "IR"
 /tool fetch url="https://www.iwik.org/ipcountry/mikrotik/$ccode"
